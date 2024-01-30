@@ -1,4 +1,4 @@
-baseURL = 'gemitdomain.cloud'
+baseURL = 'https://gemitdomain.cloud'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'risotto'
